@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the finished project](./screenshot.jpg)
+![Screenshot of the finished project](design/screenshot.jpg)
 
 ### Links
 
